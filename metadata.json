@@ -1,0 +1,6 @@
+{
+  "name": "Verdure & Loam — Organic Produce & Harvest Provisioner",
+  "description": "Direct-to-table regenerative organic vegetables and orchard fruits harvested at dawn, featuring a custom harvest crate builder, field parcel traceability, and cold-chain doorstep delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
